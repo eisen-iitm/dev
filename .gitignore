@@ -1,2 +1,13 @@
-.pro
-.pro.*
+#Qt user files
+*.user
+
+#Qt build folders
+build*/
+
+#compiled object files
+*.o
+
+#vim swp files 
+*.swp
+
+*.stash
